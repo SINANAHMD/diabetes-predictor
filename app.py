@@ -25,3 +25,4 @@ if st.button("Predict"):
         st.success("✅ Not Diabetic")
 
 st.caption("For educational purposes only")
+    
